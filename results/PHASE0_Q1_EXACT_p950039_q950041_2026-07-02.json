@@ -1,0 +1,53 @@
+{
+  "exact_omega_ge5": {
+    "max_omega_ge5": {
+      "n": 902574201802,
+      "n_factors": [
+        2,
+        7,
+        13,
+        17,
+        19,
+        29,
+        37,
+        41,
+        349
+      ],
+      "n_factors_ge5": [
+        7,
+        13,
+        17,
+        19,
+        29,
+        37,
+        41,
+        349
+      ],
+      "omega_ge5": 8,
+      "y": 902574201801
+    },
+    "mode": "exact_segmented_sieve",
+    "n_start": 902574101522,
+    "n_stop_exclusive": 902577901682,
+    "omega_ge5_hist": {
+      "1": 435070,
+      "2": 1191317,
+      "3": 1267675,
+      "4": 679851,
+      "5": 195126,
+      "6": 29001,
+      "7": 2063,
+      "8": 57
+    },
+    "prime_limit": 950041,
+    "rows_scanned": 3800160,
+    "y_end_exclusive": 902577901681,
+    "y_start": 902574101521
+  },
+  "generated_at": "2026-07-02T21:41:48",
+  "kill_line_omega_ge5": 8,
+  "logp_squared": 189.4548069721129,
+  "p": 950039,
+  "phase0_Q1_pass_exact": false,
+  "q": 950041
+}
